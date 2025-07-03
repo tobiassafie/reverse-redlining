@@ -14,13 +14,13 @@ The goal is to understand how historical housing discrimination still correlates
 ## Displacement Map Snapshots
 
 ### HOLC Redlining Map of Philadelphia (1930s)
-<img src="../assets/Screenshot_whole_map.png" alt="HOLC Redlining Map" width="700"/>
+<img src="./media/Screenshot_whole_map.png" alt="HOLC Redlining Map" width="700"/>
 
 ### Tract-level data popup (Northern Liberties)
-<img src="../assets/Screenshot_Nolibs.png" alt="Tract popup - Nolibs" width="700"/>
+<img src="./media/Screenshot_Nolibs.png" alt="Tract popup - Nolibs" width="700"/>
 
 ### Tract-level data popup (West Philly)
-<img src="../assets/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
+<img src="./media/Screenshot_west.png" alt="Tract popup - West Philly" width="700"/>
 
 ---
 
